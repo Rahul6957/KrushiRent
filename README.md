@@ -1,0 +1,2 @@
+# KrushiRent
+Farm_Equipment_Rental_Platform
